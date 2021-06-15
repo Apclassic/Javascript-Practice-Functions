@@ -24,7 +24,7 @@ else if(strokes >= par){
 }
 else{
   return "Change Me";}
-  // Only change code above this line
+  
 }
 
 golfScore(5, 4);
